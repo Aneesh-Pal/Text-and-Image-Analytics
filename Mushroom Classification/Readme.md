@@ -18,7 +18,7 @@ Finally, I will train Decision Tree Classifier Model using both Entropy and Gini
 
 # Dataset Used:
 * mushrooms.csv - The dataset consists of the different features of mushrooms and its class which shows whether the mushroom is edible or poisonous.
+* The Following project is made on python notebook file so make sure to download the dataset and load the dataset in the Jupiter notebook or google colab before running the project.
 # Dataset link:
-* dataset can be downloaded from the following link - https://drive.google.com/file/d/1JADC6wnnU7Vn8d77fkWPBmp3RWFdZdUj/view?usp=sharing
-
+* Dataset can be downloaded from the following link - https://drive.google.com/file/d/1JADC6wnnU7Vn8d77fkWPBmp3RWFdZdUj/view?usp=sharing
 
