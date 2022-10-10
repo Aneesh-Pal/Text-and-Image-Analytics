@@ -15,3 +15,8 @@ Finally, I will train Decision Tree Classifier Model using both Entropy and Gini
 * Seaborn
 * Plotly
 * Scikit-learn
+
+# Dataset Used:
+* mushrooms.csv - The dataset consists of the different features of mushrooms and its class which shows whether the mushroom is edible or poisonous.
+
+
