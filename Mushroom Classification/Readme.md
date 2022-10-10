@@ -8,3 +8,10 @@ For the first step of this notebook, I will work on the Exploratory Data Analysi
 For the next step, I will deal with the missing data points (if they exist), and then encode the dataset for the data pre-processing step.
 Finally, I will train Decision Tree Classifier Model using both Entropy and Gini Index.**
 
+# Required Python Packages and Libraries
+* Numpy
+* Pandas
+* Matplolib
+* Seaborn
+* Plotly
+* Scikit-learn
