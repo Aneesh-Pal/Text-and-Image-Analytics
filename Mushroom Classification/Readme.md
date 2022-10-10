@@ -25,3 +25,14 @@ Finally, I will train Decision Tree Classifier Model using both Entropy and Gini
 # Project Implementation:
 * Performed Exploratory data analysis.
 * Performed Visualization of the features of the mushrooms with respect to its class using matplotlib, seaborn and plolty libraries.
+
+## Model Creation:
+* Used Scikit learn library to implement the model.
+* Splitted data into training and test data.
+
+## Model Used:
+* Classification model Decision Tree Classifier was used.
+* Decision Tree was implemented on both criterions 
+     * Entropy 
+     * Gini Index
+
