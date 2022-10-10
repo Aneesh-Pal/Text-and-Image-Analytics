@@ -46,5 +46,6 @@ Finally, I will train Decision Tree Classifier Model using both Entropy and Gini
 * Achieved F1 score of around 96%, which shows the great accuracy.
 * Decision-Tree Classifier model using both gini index and entropy have only very very small difference in model accuracy and training set accuracy, so there is no sign of overfitting.
 * Decision Tree shows the best results of Classifying the edible and poisonous mushrooms.
-
-![result](https://user-images.githubusercontent.com/101913703/194864361-4fb8b72a-d9b0-41fe-a3a6-d47178be9ffd.png | width =50)
+# Tutorial Video:
+* Tutorial Video can be downloaded using following google drive link  - https://drive.google.com/file/d/1d9Ks2Gafz3hv29TqBsrRX4R_O9CDMxlU/view?usp=sharing
+* Tutorial Video can be watched using following Youtube link - https://youtu.be/s2ZbIHYd0-Y
