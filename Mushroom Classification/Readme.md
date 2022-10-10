@@ -22,3 +22,6 @@ Finally, I will train Decision Tree Classifier Model using both Entropy and Gini
 # Dataset link:
 * Dataset can be downloaded from the following link - https://drive.google.com/file/d/1JADC6wnnU7Vn8d77fkWPBmp3RWFdZdUj/view?usp=sharing
 
+# Project Implementation:
+* Performed Exploratory data analysis.
+* Performed Visualization of the features of the mushrooms with respect to its class using matplotlib, seaborn and plolty libraries.
