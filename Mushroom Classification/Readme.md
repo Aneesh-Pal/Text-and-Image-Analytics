@@ -1,2 +1,4 @@
 # Project Title
-###Mushroom Classification
+### Mushroom Classification
+
+# Aim of the Project
