@@ -21,6 +21,9 @@ Finally, I will train Decision Tree Classifier Model using both Entropy and Gini
 * The Following project is made on python notebook file so make sure to download the dataset and load the dataset in the Jupiter notebook or google colab before running the project.
 # Dataset link:
 * Dataset can be downloaded from the following link - https://drive.google.com/file/d/1JADC6wnnU7Vn8d77fkWPBmp3RWFdZdUj/view?usp=sharing
+# Project Link:
+* Mushroom Classification.ipynb - This notebook file contains the complete project.
+* Project can be downloaded from the following link - https://colab.research.google.com/drive/1y1Oz9Eg8_FI18JdOb3u-8sdDq5Pao-D4?usp=sharing
 
 # Project Implementation:
 * Performed Exploratory data analysis.
